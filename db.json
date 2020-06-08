@@ -1,0 +1,72 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Fixed hard drive dude",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-06-06T08:50:07.204Z"
+    },
+    {
+      "message": "Played golf today at Dublin ranch",
+      "tech": "Rika Pinto",
+      "attention": true,
+      "date": "2020-06-07T07:05:05.323Z",
+      "id": 2
+    },
+    {
+      "message": "We need to build the math course material level 2 for the kids",
+      "tech": "Sam Smith",
+      "attention": true,
+      "date": "2020-06-07T07:11:41.730Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "id": 4,
+      "firstName": "Hyde",
+      "lastName": "Pinto"
+    },
+    {
+      "id": 5,
+      "firstName": "Henry",
+      "lastName": "Pinto"
+    },
+    {
+      "id": 6,
+      "firstName": "Sarmita",
+      "lastName": "Bhattacharyya"
+    },
+    {
+      "id": 7,
+      "firstName": "Rika-Punk",
+      "lastName": "cat-Pinto"
+    },
+    {
+      "firstName": "Jason",
+      "lastName": "Huang",
+      "id": 8
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "Smith",
+      "id": 9
+    },
+    {
+      "firstName": "Sachin",
+      "lastName": "Totale",
+      "id": 10
+    }
+  ]
+}

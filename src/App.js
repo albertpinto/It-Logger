@@ -11,7 +11,7 @@ import AddTechModal from './components/techs/AddTechModal'
 import TechListModal from './components/techs/TechListModal'
 import store from './store'
 import { connect, Provider } from 'react-redux'
-
+// Author Albert Pinto
 const App = () => {
   useEffect(() => {
     // Initialize the Materialize JS
